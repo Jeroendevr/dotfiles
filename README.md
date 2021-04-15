@@ -91,3 +91,6 @@ inspired from Ryan's original project.
 
 
 https://openfolder.sh/macos-migrations-with-brewfile
+
+## debugging
+If you have a compinit warning within your shell visit https://stackoverflow.com/questions/13762280/zsh-compinit-insecure-directories

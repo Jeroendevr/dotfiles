@@ -3,17 +3,39 @@ tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
 brew "fzf"
+brew "mas"
 brew "node"
-brew "python@3.8"
+brew "python"
 brew "typescript"
 brew "zplug"
 brew "zsh"
 brew "zsh-completions"
 brew "getantibody/tap/antibody"
+cask "arq"
+cask "dropbox"
+cask "discord"
+cask "eve-launcher"
+cask "forklift"
+cask "firefox"
 cask "github"
 cask "iterm2"
+cask "mumble"
+cask "microsoft-excel"
+cask "microsoft-word"
+cask "obsidian" 
 cask "onedrive"
+cask "rectangle"
+cask "steam"
 cask "visual-studio-code"
 cask "vlc"
+cask "vmware-horizon-client"
 cask "wine-stable"
 cask "xquartz"
+
+# 'mas MacAppstore install
+mas "Pages", id: 409201541
+mas "Pixelmator Classic", id:407963104
+mas "Strongbox", id: 1270075435
+mas "Time Out - Break Reminders", id: 402592703
+mas "DaisyDisk", id: 411643860
+mas "Numbers", id:409203825
